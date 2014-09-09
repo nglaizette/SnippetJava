@@ -1,4 +1,4 @@
 SnippetJava
 ===========
 
-test de différents trucs java
+test de différents trucs java.
