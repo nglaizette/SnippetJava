@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="C:/Export/Soft/eclipse3.7.1_64/plugins/org.eclipse.core.commands_3.6.0.I20110111-0800.jar"/>
 	<classpathentry kind="lib" path="C:/Export/Soft/eclipse3.7.1_64/plugins/org.eclipse.core.runtime_3.7.0.v20110110.jar"/>
 	<classpathentry kind="lib" path="C:/Export/Soft/eclipse3.7.1_64/plugins/org.eclipse.equinox.common_3.6.0.v20110523.jar"/>
+	<classpathentry kind="lib" path="C:/Export/Soft/eclipse3.7.1_64/plugins/org.eclipse.nebula.widgets.tablecombo_1.0.0.201211280956.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
