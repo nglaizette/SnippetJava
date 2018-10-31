@@ -1,10 +1,7 @@
 /*
- * Copyright (C) 2004-@year@ by IFP-GROUP.
+ * Copyright (C) @year@ 
  * All rights reserved.
  *
- * IFP Headquarters:
- * 1 & 4, avenue de Bois-Preau
- * 92852 Rueil-Malmaison Cedex - France
  */
 package ng.bestpractice.swttabletableviewer;
 
@@ -14,14 +11,12 @@ import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 
 /**
- * IFP-Group <br>
- * Infrastructure Project <br>
  * <p>
  * SampleApp:
  * <p>
  * Created on 15 oct. 2014
  * 
- * @author glaizett
+ * @author NG
  */
 public class SampleApp {
 
