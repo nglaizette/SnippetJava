@@ -1,10 +1,6 @@
 /*
- * Copyright (C) 2004-@year@ by IFP-GROUP.
+ * Copyright (C) @year@ by Me.
  * All rights reserved.
- *
- * IFP Headquarters:
- * 1 & 4, avenue de Bois-Preau
- * 92852 Rueil-Malmaison Cedex - France
  */
 package ng.bestpractice.swttabletableviewer;
 
