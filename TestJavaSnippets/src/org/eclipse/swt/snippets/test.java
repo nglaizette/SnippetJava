@@ -1,11 +1,4 @@
-/*
- * Copyright (C) 2004-@year@ by IFP-GROUP.
- * All rights reserved.
- *
- * IFP Headquarters:
- * 1 & 4, avenue de Bois-Preau
- * 92852 Rueil-Malmaison Cedex - France
- */
+
 package org.eclipse.swt.snippets;
 
 public class test {
