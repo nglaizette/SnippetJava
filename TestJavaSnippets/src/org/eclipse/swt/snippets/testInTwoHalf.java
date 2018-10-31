@@ -13,8 +13,6 @@ import org.eclipse.swt.widgets.TreeColumn;
 import org.eclipse.swt.widgets.TreeItem;
 
 /**
- * IFP-Group <br>
- * Infrastructure Project <br>
  * <p>
  * testInTwoHalf:
  * <p>
