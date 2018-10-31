@@ -1,24 +1,15 @@
-/*
- * Copyright (C) 2004-@year@ by IFP-GROUP.
- * All rights reserved.
- *
- * IFP Headquarters:
- * 1 & 4, avenue de Bois-Preau
- * 92852 Rueil-Malmaison Cedex - France
- */
+
 package ng.bestpractice.swttabletableviewer;
 
 import java.util.Random;
 
 /**
- * IFP-Group <br>
- * Infrastructure Project <br>
  * <p>
  * Person:
  * <p>
  * Created on 15 oct. 2014
  * 
- * @author glaizett
+ * @author ng
  */
 public class Person {
     private static final String[] FIRST = { "Favonius", "Tim", "Brad", "Scott", "Linda" };
